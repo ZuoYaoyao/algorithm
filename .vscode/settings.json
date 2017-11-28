@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "iostream": "c",
+        "fcntl.h": "c",
+        "pthread.h": "c",
+        "limits": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "time.h": "c",
+        "ctime": "cpp",
+        "stdlib.h": "c",
+        "ostream": "cpp"
+    }
+}
