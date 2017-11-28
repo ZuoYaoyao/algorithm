@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.colors import ListedColormap
 
-
 class Perceptron(object):
     def __init__(self, eta=0.01, n_iter=10):
         self.eta = eta
