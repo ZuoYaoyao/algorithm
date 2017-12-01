@@ -32,7 +32,7 @@ class Perceptron(object):
         return np.where(self.net_input(X) >= 0.0, 1, -1)
 
 
-df = pd.read_csv('dataset/iris.data.txt')
+df = pd.read_csv('test_dataset/iris.data.txt')
 # print(df.head())
 
 y = df.iloc[0:100, 4].values

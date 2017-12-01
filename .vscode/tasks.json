@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "command": "g++",
     "isShellCommand": true,
-    "args": ["-g","${workspaceRoot}/main.c"],
+    "args": ["-g","${workspaceRoot}/n-queen.cpp"],
     "showOutput": "always"
     
 }
