@@ -5,7 +5,15 @@ using namespace std;
 
 //Graph:1.adj
 
+struct node{
+    int data;
+    struct node * next;
+};
 
+// list: struct node* list
+// typedef struct node* linklist
+// graph ajdacency matrix linklist* matrix
+// struct node** matrix
 
 void dfs()
 {

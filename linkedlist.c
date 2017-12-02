@@ -1,6 +1,6 @@
 /*
 	linkedlist
-	date:2017-1107
+	date:2017-11-07
 */
 #include<stdio.h>
 #include<stdlib.h>
