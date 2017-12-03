@@ -25,7 +25,7 @@ struct node* addnode(int adjvex);
 void addEdge(struct graph* g,int src,int des);
 void traverse(struct graph* g);
 void dfs(struct graph* g,int start);
-
+void bfs(struct graph* g,int start);
 
 int main()
 {
@@ -129,4 +129,10 @@ void dfs(struct graph* g,int start)
             dfs(g,i->adjvex);
         }
     }
+}
+
+//广度优先
+void bfs(struct graph* g,int start)
+{
+    
 }
