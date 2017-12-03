@@ -11,7 +11,8 @@
         "time.h": "c",
         "ctime": "cpp",
         "stdlib.h": "c",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "*.tcc": "c"
     },
     "python.pythonPath": "/usr/bin/python3.5"
 }
