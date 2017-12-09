@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define N 15
+#define N 14
 int count = 0;
 void display(int board[N][N]);
 int solveNQ(int board[N][N], int col);
